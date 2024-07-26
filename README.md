@@ -28,5 +28,7 @@ Cloud Computing
 Thrilled to kickstart my career as a Junior Cyber Security Analyst. Eager to contribute, learn, and evolve in the ever-evolving cybersecurity landscape.
 
 📫 Social Media Links
+
 LinkedIn: https://www.linkedin.com/in/praveen-m-919650255/
+
 Credly: https://www.credly.com/users/praveen-m.3c1c21ec
