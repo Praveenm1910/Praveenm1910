@@ -71,9 +71,8 @@
 
 <br clear="both">
 
-<div align="center">
-  ![snake gif](https://github.com/Praveenm1910/Praveenm1910/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/Praveenm1910/Praveenm1910/blob/output/github-snake-dark.svg)
+
 
 
 ###
