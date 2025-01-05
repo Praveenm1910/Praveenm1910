@@ -72,7 +72,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/praveenm1910/praveenm1910/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Praveenm1910/Praveenm1910/output/snake.svg" alt="Snake animation" />
 </div>
 
 
