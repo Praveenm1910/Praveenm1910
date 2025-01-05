@@ -1,34 +1,58 @@
-Hi there, I'm Praveen M 👋
-🌐 Junior Cyber Security Analyst
-🎓 CSBS II Year Student at Panimalar Engineering College | Student at Self Made Ninja Academy | 2022-2026 Batch
+<h4 align="left">Hi 👋! My name is Praveen M, and I’m an Aspiring Cybersecurity Analyst.</h4>
 
-🔒 Aspiring Cybersecurity Enthusiast with a keen interest in safeguarding the digital realm. Currently navigating the exciting world of cyber defenses at Panimalar Engineering College, pursuing my CSBS degree.
+###
 
-About Me
-    @Praveenm1910
-👀 I’m interested in cybersecurity, network security, incident response, digital defense, ethical hacking, security analysis, full-stack development, AI & ML, and cloud computing.
-🌱 I’m currently learning advanced techniques in cybersecurity, AI & ML, and full-stack development at Panimalar Engineering College and Self Made Ninja Academy.
-💞️ I’m looking to collaborate on cybersecurity projects, web development initiatives, and AI & ML research.
-📫 How to reach me: praveenm191004@gmail.com
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenm1910&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=praveenm1910&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenm1910&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-😄 Pronouns: He/Him
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-🔐 Skills & Interests
-Cybersecurity
-Network Security
-Incident Response
-Digital Defense
-Ethical Hacking
-Security Analysis
-Full-Stack Development
-AI & ML
-Cloud Computing
-🚀 Professional Journey
-Thrilled to kickstart my career as a Junior Cyber Security Analyst. Eager to contribute, learn, and evolve in the ever-evolving cybersecurity landscape.
+###
 
-📫 Social Media Links
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="30" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="49" height="30" alt="telegram logo"  />
+</div>
 
-LinkedIn: https://www.linkedin.com/in/praveen-m-919650255/
+###
 
-Credly: https://www.credly.com/users/praveen-m.3c1c21ec
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/praveenm1910/praveenm1910/output/snake.svg" alt="Snake animation" />
+
+###
