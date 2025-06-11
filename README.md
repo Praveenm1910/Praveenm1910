@@ -1,6 +1,6 @@
 <h2>Hi there, I’m Praveen M 👋</h2>
 <h4>
-  🌐 <strong>Aspiring Cybersecurity Analyst</strong> | 🎓 <strong>CSBS III Year Student @ Panimalar Engineering College</strong><br>
+  🌐 <strong>Aspiring Cybersecurity Analyst</strong> | 🎓 <strong>CSBS Final Year Student @ Panimalar Engineering College</strong><br>
   🔒 <em>Passionate about safeguarding the digital realm, exploring cybersecurity and full-stack development.</em><br>
   🌱 <strong>Learning advanced techniques</strong> at Self Made Ninja Academy.<br>
   💼 <strong>Junior Cyber Security Analyst</strong>, eager to collaborate on <em>cybersecurity projects, web development, and AI research.</em><br>
