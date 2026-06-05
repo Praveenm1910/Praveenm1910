@@ -1,75 +1,140 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:0f0f0f&text=Praveen%20M&fontColor=00ff41&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20|%20Software%20Developer%20|%20CTF%20Competitor&descAlignY=65&descSize=16&descColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:0f0f0f&text=Praveen%20M&fontColor=00ff41&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20|%20Software%20Developer&descAlignY=65&descSize=16&descColor=00ff41" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Security+Researcher;Secure+Systems+Developer;Cybersecurity+Enthusiast;Building+Security+Focused+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Researcher;Secure+Systems+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
+<a href="https://github.com/Praveenm1910">
+<img src="https://komarev.com/ghpvc/?username=Praveenm1910&color=00ff41&style=for-the-badge"/>
+</a>
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Praveenm1910&color=00ff41&style=for-the-badge)](https://github.com/Praveenm1910) <br><br> <a href="https://linkedin.com/in/praveenm1910"> <img src="https://img.shields.io/badge/LinkedIn-Praveen_M-00ff41?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="https://praveenm.dev"> <img src="https://img.shields.io/badge/Portfolio-praveenm.dev-00ff41?style=for-the-badge&logo=firefox&logoColor=black"/> </a> <a href="mailto:me@praveenm.dev"> <img src="https://img.shields.io/badge/Email-Contact_Me-00ff41?style=for-the-badge&logo=gmail&logoColor=black"/> </a>
+<a href="https://linkedin.com/in/praveenm1910"> <img src="https://img.shields.io/badge/LinkedIn-Praveen_M-00ff41?style=for-the-badge&logo=linkedin&logoColor=black"/> </a>&nbsp; <a href="https://praveenm.dev"> <img src="https://img.shields.io/badge/Portfolio-praveenm.dev-00ff41?style=for-the-badge&logo=firefox&logoColor=black"/> </a>&nbsp; <a href="mailto:me@praveenm.dev"> <img src="https://img.shields.io/badge/Email-Contact_Me-00ff41?style=for-the-badge&logo=gmail&logoColor=black"/> </a>
 
 </div>
 
 ---
 
-# About Me
+# whoami
 
-Security-focused Computer Science student passionate about building secure systems, researching vulnerabilities, and developing practical cybersecurity tools.
+```text
+$ whoami
 
-### Areas of Interest
+Security-focused Computer Science student
 
-- Application Security
-- Network Security
-- Secure Software Development
-- Cloud Security
-- Offensive Security Learning
-- Defensive Security Learning
-- Cybersecurity Research
+Building secure systems
 
-Currently exploring advanced exploitation techniques, reverse engineering, cloud security, and low-level networking.
+Developing cybersecurity tools
+
+Learning through research and practical engineering
+```
 
 ---
 
-# Technical Skills
+# interests
 
-### Programming Languages
+```text
+$ interests
 
-`Python` • `C` • `Java` • `PHP` • `JavaScript` • `Bash`
+Application Security
 
-### Security Tools
+Network Security
 
-`Wireshark` • `Nmap` • `Netcat` • `Burp Suite`
+Secure Systems Development
 
-### Operating Systems & Platforms
+Cloud Security
 
-`Linux` • `Ubuntu` • `Kali Linux`
+Cybersecurity Research
 
-### Databases
-
-`MySQL` • `MariaDB` • `MongoDB` • `Firebase`
-
-### Cloud & Development
-
-`AWS` • `Google Cloud Platform (GCP)` • `Git`
+Offensive Security Learning
+```
 
 ---
 
-# Featured Projects
+# technical_skills
 
-## NetShield — ARP Spoofing & DDoS Detection System
+## Programming Languages
 
-Built a network security solution focused on detecting malicious network activities, monitoring suspicious traffic patterns, and automating defensive actions.
+```text
+Python
 
-### Features
+C
 
-- Real-time ARP spoofing detection
-- DDoS traffic pattern monitoring
-- MAC-IP consistency validation
-- Automatic malicious host detection
-- Firewall integration for threat mitigation
-- Logging and alerting support
+Java
 
-**Stack**
+PHP
+
+JavaScript
+
+Bash
+```
+
+## Security Tools
+
+```text
+Wireshark
+
+Nmap
+
+Netcat
+
+Burp Suite
+```
+
+## Operating Systems & Platforms
+
+```text
+Linux
+
+Ubuntu
+
+Kali Linux
+```
+
+## Databases
+
+```text
+MySQL
+
+MariaDB
+
+MongoDB
+
+Firebase
+```
+
+## Cloud & Development
+
+```text
+AWS
+
+GCP
+
+Git
+```
+
+---
+
+# projects
+
+## NetShield
+
+```text
+$ project netshield
+
+ARP Spoofing Detection
+
+DDoS Monitoring
+
+Firewall Integration
+
+Threat Detection
+
+Logging & Alerts
+```
+
+Stack:
 
 `C` `Python`
 
@@ -77,18 +142,21 @@ Built a network security solution focused on detecting malicious network activit
 
 ## Secure Multithreaded Chat Server
 
-Built a secure communication platform supporting authenticated and encrypted communication between multiple concurrent clients.
+```text
+$ project secure-chat-server
 
-### Features
+Mutual TLS Authentication
 
-- Mutual TLS authentication
-- Concurrent client handling
-- Database-backed authentication
-- Automated certificate provisioning
-- Encrypted communication channels
-- Secure credential storage
+Concurrent Clients
 
-**Stack**
+Encrypted Communication
+
+Database Authentication
+
+Certificate Provisioning
+```
+
+Stack:
 
 `Python`
 
@@ -96,62 +164,75 @@ Built a secure communication platform supporting authenticated and encrypted com
 
 ## Packet Sniffer & Traffic Analyzer
 
-Developed a low-level packet inspection tool for monitoring, analyzing, and diagnosing network traffic.
+```text
+$ project packet-sniffer
 
-### Features
+Live Packet Capture
 
-- Live packet capture
-- Protocol parsing
-- Traffic analysis
-- Network diagnostics
-- Security monitoring workflows
+Protocol Parsing
 
-**Stack**
+Traffic Analysis
+
+Network Diagnostics
+```
+
+Stack:
 
 `C`
 
 ---
 
-# Experience
-
-## Virtual Internship — TCS iON
-
-**March 2025 – May 2025**
-
-Worked on security-focused web implementations involving:
-
-- CAPTCHA integrations
-- Validation mechanisms
-- Automated abuse prevention techniques
-- Practical defensive security concepts
-
----
-
-# Leadership & Community
-
-- Google Developer Groups Campus Lead (2025–2026)
-
-- DEF CON Chennai Core Team Member (2025–Present)
-
-- PEC Hacks Lead Organizer
-
-- TEDxPEC Event Manager
-
----
-
-# Education
-
-**B.Tech — Computer Science & Business Systems**
-
-Panimalar Engineering College (2022–2026)
-
-CGPA: **8.2**
-
----
-
-# Currently Learning
+# experience
 
 ```text
+$ experience
+
+TCS iON Virtual Internship
+
+CAPTCHA Integration
+
+Validation Mechanisms
+
+Security-focused Web Development
+```
+
+---
+
+# leadership
+
+```text
+$ leadership
+
+GDG Campus Lead
+
+DEF CON Chennai Core Team
+
+PEC Hacks Lead Organizer
+
+TEDxPEC Event Manager
+```
+
+---
+
+# education
+
+```text
+$ education
+
+B.Tech Computer Science & Business Systems
+
+Panimalar Engineering College - (2022-2026)
+
+CGPA : 8.2
+```
+
+---
+
+# currently_learning
+
+```text
+$ learning
+
 Advanced Web Exploitation
 
 Reverse Engineering
@@ -163,11 +244,11 @@ Advanced Networking
 Shell Scripting
 
 Mobile Security
-````
+```
 
 ---
 
-# GitHub Statistics
+# github_stats
 
 <table align="center">
 
@@ -197,33 +278,24 @@ Mobile Security
 
 ---
 
-# Contact
+# contact
 
-Email:
+```text
+Email      : me@praveenm.dev
 
-**[me@praveenm.dev](mailto:me@praveenm.dev)**
+LinkedIn   : linkedin.com/in/praveenm1910
 
-LinkedIn:
-
-**linkedin.com/in/praveenm1910**
-
-Portfolio:
-
-**praveenm.dev**
-
-Open To:
-
-- Cybersecurity Roles
-- Security Engineering Opportunities
-- Software Development Roles
-- Research Collaborations
+Portfolio  : praveenm.dev
+```
 
 ---
 
 <div align="center">
 
-### Security through engineering, research, and continuous learning
+```text
+echo "Security through engineering, research, and continuous learning"
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f0f0f" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0f0f0f"/>
