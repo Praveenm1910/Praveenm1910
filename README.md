@@ -250,32 +250,43 @@ Mobile Security
 
 # github_stats
 
+<!-- GitHub Stats Section -->
 <table align="center">
-
-<tr>
-
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveenm1910&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Praveenm1910&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://streak-stats.demolab.com?user=Praveenm1910&theme=chartreuse-dark&hide_border=true"/>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Praveenm1910&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenm1910&layout=compact&theme=chartreuse-dark&hide_border=true"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=Praveenm1910&theme=chartreuse-dark&hide_border=true"
+        height="180"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
 </table>
 
+<br>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenm1910&bg_color=000000&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
 ---
 
 # contact
